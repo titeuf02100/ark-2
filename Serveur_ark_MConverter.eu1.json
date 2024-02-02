@@ -19,7 +19,7 @@
                     "buttontext": "<RichColor Color=\"1,0,0,1\">Bienvenue</>",
                     "title1": "",
                     "text1": "",
-                    "imageurl": ""
+                    "imageurl": "https://i.imgur.com/R2nv1kM.png"
                 }
             },
             {
@@ -28,7 +28,7 @@
                     "buttontext": "<TextStyle.Red>Réglement</>",
                     "title1": "",
                     "text1": "",   
-                    "imageurl": "https://cdn.discordapp.com/attachments/1160273304079323246/1197514458994581504/REGLES.png?ex=65bb8b3f&is=65a9163f&hm=7f9e9e182bb86ce72c123a5f1fc83d4b3f8fa83c527e340af0b7c214335a1a0e&"
+                    "imageurl": "https://i.imgur.com/paWBCmp.png"
                 }
             },
             {
@@ -37,7 +37,7 @@
                     "buttontext": "<TextStyle.Red>Mods</>",
                     "title1": "",
                     "text1": "",
-                    "imageurl": "https://i.imgur.com/vJdHbja.png"
+                    "imageurl": "https://i.imgur.com/Q42Ftb5.png"
                 }
             },
             {
@@ -46,7 +46,7 @@
                     "buttontext": "<TextStyle.Red>Réglages serveur</>",
                     "title1": "",
                     "text1": "",
-                    "imageurl": "https://i.imgur.com/2md1jTB.png"
+                    "imageurl": "https://i.imgur.com/02tcF1o.png"
                 }
             }
         ],
