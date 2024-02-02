@@ -1,0 +1,66 @@
+{
+    "WBUI2": {
+        "settings": {
+            "OpenButton": 0,
+            "HideIcon": false,
+            "HideIconAfter": 60,
+            "IconURL": "https://i.imgur.com/RbTfiPF.png",
+            "DisableIconText": true,
+            "IconPosition": 0,
+            "IconTextColor": 1,
+            "OpenOnStart": true,
+            "OpenOnStartOnlyNewPlayers": true,
+            "UpdateInterval": 12
+        },
+        "tabs": [
+            {
+                "tab1": {
+                    "layout": 1,
+                    "buttontext": "<RichColor Color=\"1,0,0,1\">Bienvenue</>",
+                    "title1": "",
+                    "text1": "",
+                    "imageurl": ""
+                }
+            },
+            {
+                "tab2": {
+                    "layout": 1,
+                    "buttontext": "<TextStyle.Red>Réglement</>",
+                    "title1": "",
+                    "text1": "",   
+                    "imageurl": "https://cdn.discordapp.com/attachments/1160273304079323246/1197514458994581504/REGLES.png?ex=65bb8b3f&is=65a9163f&hm=7f9e9e182bb86ce72c123a5f1fc83d4b3f8fa83c527e340af0b7c214335a1a0e&"
+                }
+            },
+            {
+                "tab3": {
+                    "layout": 1,
+                    "buttontext": "<TextStyle.Red>Mods</>",
+                    "title1": "",
+                    "text1": "",
+                    "imageurl": "https://i.imgur.com/vJdHbja.png"
+                }
+            },
+            {
+                "tab4": {
+                    "layout": 1,
+                    "buttontext": "<TextStyle.Red>Réglages serveur</>",
+                    "title1": "",
+                    "text1": "",
+                    "imageurl": "https://i.imgur.com/2md1jTB.png"
+                }
+            }
+        ],
+        "links": [
+            {
+                "link2": {
+                    "text": "Lien vers discord",
+                    "url": "https://discord.gg/25cfMWEY58"
+                },
+                "link3": {
+                    "text": "Voter sur Top Serveur",
+                    "url": "https://top-serveurs.net/ark/fr-la-piraterie-pve-tamex8xpx3farmx3"
+                }
+            }
+        ]
+    }
+}
