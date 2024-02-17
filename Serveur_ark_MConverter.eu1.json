@@ -4,7 +4,7 @@
             "OpenButton": 0,
             "HideIcon": false,
             "HideIconAfter": 60,
-            "IconURL": "https://i.imgur.com/RbTfiPF.png",
+            "IconURL": "https://i.imgur.com/bIE66ck.png",
             "DisableIconText": true,
             "IconPosition": 0,
             "IconTextColor": 1,
@@ -19,46 +19,19 @@
                     "buttontext": "<RichColor Color=\"1,0,0,1\">Bienvenue</>",
                     "title1": "",
                     "text1": "",
-                    "imageurl": "https://i.imgur.com/R2nv1kM.png"
+                    "imageurl": "https://i.imgur.com/hk26hWF.png"
                 }
-            },
-            {
-                "tab2": {
-                    "layout": 1,
-                    "buttontext": "<TextStyle.Red>Réglement</>",
-                    "title1": "",
-                    "text1": "",   
-                    "imageurl": "https://i.imgur.com/paWBCmp.png"
-                }
-            },
-            {
-                "tab3": {
-                    "layout": 1,
-                    "buttontext": "<TextStyle.Red>Mods</>",
-                    "title1": "",
-                    "text1": "",
-                    "imageurl": "https://i.imgur.com/Q42Ftb5.png"
-                }
-            },
-            {
-                "tab4": {
-                    "layout": 1,
-                    "buttontext": "<TextStyle.Red>Réglages serveur</>",
-                    "title1": "",
-                    "text1": "",
-                    "imageurl": "https://i.imgur.com/02tcF1o.png"
-                }
-            }
+            }        
         ],
         "links": [
             {
                 "link2": {
                     "text": "Lien vers discord",
-                    "url": "https://discord.gg/25cfMWEY58"
+                    "url": "https://discord.gg/YDrQ7T2tuv"
                 },
                 "link3": {
                     "text": "Voter sur Top Serveur",
-                    "url": "https://top-serveurs.net/ark/fr-la-piraterie-pve-tamex8xpx3farmx3"
+                    "url": "https://top-serveurs.net/ark/vote/fr-marche-ou-creve-pve-tamex8xpx3farmx4"
                 }
             }
         ]
